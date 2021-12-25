@@ -9,7 +9,7 @@ sites:
     url: https://timeout.moe
 
 status-website:
-  cname: upptime.timeout.moe
+  cname: status.timeout.moe
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: Are you 💥?
