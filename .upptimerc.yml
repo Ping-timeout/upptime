@@ -5,16 +5,14 @@ repo: upptime # The name of this repository
 sites:
   - name: GitHub
     url: https://github.com
+  - name: Ping_timeout 的 blog
+    url: https://timeout.moe
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: upptime.timeout.moe
-  # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a status page which uses **real-time** data from my [GitHub repository](https://github.com/Ping-timeout/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: Are you 💥?
   navbar:
     - title: Status
       href: /
