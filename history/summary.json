@@ -4,19 +4,19 @@
     "url": "https://github.com",
     "icon": "https://favicons.githubusercontent.com/github.com",
     "slug": "git-hub",
-    "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 58,
     "timeDay": 67,
     "timeWeek": 58,
     "timeMonth": 58,
     "timeYear": 58,
     "dailyMinutesDown": {
-      "2021-12-26": 6
+      "2021-12-26": 0
     }
   },
   {
