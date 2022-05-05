@@ -42,7 +42,7 @@
     "url": "https://timeout.moe",
     "icon": "https://favicons.githubusercontent.com/timeout.moe",
     "slug": "ping-timeout-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -53,6 +53,8 @@
     "timeWeek": 379,
     "timeMonth": 349,
     "timeYear": 348,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-05": 0
+    }
   }
 ]
