@@ -24,9 +24,9 @@
     "url": "https://www.busuu.com",
     "icon": "https://favicons.githubusercontent.com/www.busuu.com",
     "slug": "busuu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 641,
     "timeMonth": 681,
     "timeYear": 683,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-23": 0
+    }
   },
   {
     "name": "Ping_timeout 的 blog",
